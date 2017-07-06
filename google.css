@@ -1,0 +1,22 @@
+li {
+ display:inline;
+}
+
+.header {
+ text-align: right;
+}
+
+.main {
+ text-align: center;
+ margin-top: 150px;
+}
+
+.footer {
+ text-align: left;
+ position: fixed;
+ bottom: 0px;
+}
+
+#icone-header {
+	background-image: 
+}
